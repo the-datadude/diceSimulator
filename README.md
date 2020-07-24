@@ -7,5 +7,7 @@ The program then rolls both dice 3 times, and for each attempt prints out the nu
 A sample of the output looks like this:
 
 Roll of a 6-sided Die: 4. Roll of a 20-sided Die: 12. Total rolled: 16
+
 Roll of a 6-sided Die: 1. Roll of a 20-sided Die: 20. Total: 21
+
 Roll of a 6-sided Die: 6. Roll of a 20-sided Die: 1. Total: 7
