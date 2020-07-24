@@ -1,5 +1,5 @@
 # diceSimulator
-My take on a program that uses Object Oriented Programming (OOP) to simulate the throwing of a die.
+My take on a program that uses Object Oriented Programming to simulate the throwing of a die.
 I created a dice object with a roll function that returns a randomized number based off of the total sides of the die.
 The main file instantiates two instances of your Die class: one with 6 sides, and another with 20 sides.
 The program then rolls both dice 3 times, and for each attempt prints out the number rolled by each, as well as the sum of both die rolls.
